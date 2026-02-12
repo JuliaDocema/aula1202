@@ -1,4 +1,4 @@
-# PROJEOTO EMPRESARIAL
+# PROJETO EMPRESARIAL
 visão do produto, descricao do objeto do produto
 
 # problema
